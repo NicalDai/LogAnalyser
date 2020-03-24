@@ -281,6 +281,7 @@ public class LogAnalyse {
      * @param endDate   检索的结束时间
      */
     private void findAndPringLog(String logString,String keyWord,Date startDate,Date endDate){
+
         int index = logString.indexOf(keyWord);
         int indexStart;
         int indexEnd;

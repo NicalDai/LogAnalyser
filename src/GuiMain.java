@@ -103,7 +103,7 @@ public class GuiMain extends JFrame {
     }
 
     private void initialize(){
-        this.setSize(800,500);
+        this.setSize(1280,720);
         this.setContentPane(getJContentPane());
         this.setTitle("GuiMain");
         LogBase.textArea = this.textArea1;
