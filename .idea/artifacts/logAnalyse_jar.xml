@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="logAnalyse:jar">
+    <output-path>D:/demo</output-path>
+    <root id="archive" name="HttpRequest.jar">
+      <element id="module-output" name="HttpRequest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/HttpSDK/HttpSDK/commons-codec-1.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/junrar/junrar/4.0.0/junrar-4.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/HttpSDK/HttpSDK/httpcore-4.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/HttpSDK/HttpSDK/httpcore-ab-4.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/lingala/zip4j/zip4j/2.5.0/zip4j-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/HttpSDK/HttpSDK/httpcore-nio-4.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/HttpSDK/HttpSDK/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/HttpSDK/HttpSDK/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/HttpSDK/HttpSDK/fastjson-1.2.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/HttpSDK/HttpSDK/httpclient-4.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

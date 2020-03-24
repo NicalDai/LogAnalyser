@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.junrar:junrar:4.0.0" type="repository">
+    <properties maven-id="com.github.junrar:junrar:4.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/junrar/junrar/4.0.0/junrar-4.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-vfs2/2.2/commons-vfs2-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

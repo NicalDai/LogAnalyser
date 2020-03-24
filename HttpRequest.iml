@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../HttpSDK" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../HttpSDK" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="commons-codec-1.9" level="project" />
+    <orderEntry type="library" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" name="fastjson-1.2.23" level="project" />
+    <orderEntry type="library" name="httpclient-4.5" level="project" />
+    <orderEntry type="library" name="httpcore-4.4.1" level="project" />
+    <orderEntry type="library" name="httpcore-ab-4.2.3" level="project" />
+    <orderEntry type="library" name="httpcore-nio-4.2.3" level="project" />
+    <orderEntry type="library" name="commons-codec-1.13" level="project" />
+    <orderEntry type="library" name="net.lingala.zip4j:zip4j:2.5.0" level="project" />
+    <orderEntry type="library" name="javax.servlet:javax.servlet-api:4.0.1" level="project" />
+    <orderEntry type="library" name="com.github.junrar:junrar:4.0.0" level="project" />
+  </component>
+</module>
