@@ -13,3 +13,4 @@
 ### FileType
 判断日志的压缩类型，IOS 为GZ，AOS 为ZIP
 
+![Image text](https://nim-nosdn.netease.im/MTAxMTAwMg==/bmltYV8xMDkyNTAxOTIxXzE1ODUwMzMyMjEzNzFfZWY1NzYxMzQtMTU0MC00YzAzLWJhNDktZWE0N2YzOTA4MDU4?imageView&createTime=1585033222010)
